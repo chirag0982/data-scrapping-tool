@@ -1,0 +1,472 @@
+[
+    {
+        "place_id": "ChIJS46gkcvH5zsRw4QTGGGMQBA",
+        "name": "R CITY",
+        "description": "Massive, modern indoor space with a vast range of stores, plus restaurants & themed entertainment.",
+        "is_spending_on_ads": false,
+        "reviews": 116302,
+        "competitors": [
+            {
+                "name": "R Mall, Mulund",
+                "link": "https://www.google.com/maps/search/R+Mall%2C+Mulund/@19.1840208,72.9513545?authuser=0&hl=en&entry=ttu",
+                "reviews": 28900,
+                "rating": 4,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "R Odeon Mall",
+                "link": "https://www.google.com/maps/search/R+Odeon+Mall/@19.079684099999998,72.9093682?authuser=0&hl=en&entry=ttu",
+                "reviews": 12924,
+                "rating": 3.8,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "Citi Mall",
+                "link": "https://www.google.com/maps/search/Citi+Mall/@19.138623499999998,72.83143869999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 9874,
+                "rating": 3.7,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "Food Court, Rcity Mall",
+                "link": "https://www.google.com/maps/search/Food+Court%2C+Rcity+Mall/@19.0990869,72.9164557?authuser=0&hl=en&entry=ttu",
+                "reviews": 370,
+                "rating": 4.2,
+                "main_category": "Food court"
+            },
+            {
+                "name": "City centre",
+                "link": "https://www.google.com/maps/search/City+centre/@19.086285,72.888904?authuser=0&hl=en&entry=ttu",
+                "reviews": 27,
+                "rating": 4.3,
+                "main_category": "Shopping mall"
+            }
+        ],
+        "website": "http://www.rcity.co.in/",
+        "owner": {
+            "id": "115011251654359870379",
+            "name": "R CITY (Owner)",
+            "link": "https://www.google.com/maps/contrib/115011251654359870379"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMNzYvX1GBSDB3emrEL1c-WJdrAIeP_iLoqvZO_=w426-h240-k-no",
+        "main_category": "Shopping mall",
+        "categories": [
+            "Shopping mall",
+            "Donut shop"
+        ],
+        "rating": 4.4,
+        "workday_timing": "11 am-9:30 pm",
+        "closed_on": "Open All Days",
+        "phone": "022 6775 5800",
+        "address": "R CITY, Lal Bahadur Shastri Marg, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",
+        "review_keywords": [
+            {
+                "keyword": "snow",
+                "count": 378
+            },
+            {
+                "keyword": "IKEA",
+                "count": 236
+            },
+            {
+                "keyword": "suburbs",
+                "count": 218
+            },
+            {
+                "keyword": "timezone",
+                "count": 170
+            },
+            {
+                "keyword": "decathlon",
+                "count": 117
+            },
+            {
+                "keyword": "central line",
+                "count": 75
+            },
+            {
+                "keyword": "hangout",
+                "count": 53
+            },
+            {
+                "keyword": "crossword",
+                "count": 34
+            },
+            {
+                "keyword": "phoenix marketcity",
+                "count": 23
+            },
+            {
+                "keyword": "auto rickshaw",
+                "count": 20
+            }
+        ],
+        "link": "https://www.google.com/maps/place/R+CITY/data=!4m7!3m6!1s0x3be7c7cb91a08e4b:0x10408c61181384c3!8m2!3d19.0996028!4d72.9166299!16s%2Fm%2F0k3kngs!19sChIJS46gkcvH5zsRw4QTGGGMQBA?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJn4u374fI5zsRCkcZMZzJnZ8",
+        "name": "Phoenix Marketcity",
+        "description": "Retail complex with brand-name stores, restaurants & a cinema, plus extravagant, seasonal displays.",
+        "is_spending_on_ads": false,
+        "reviews": 115469,
+        "competitors": [
+            {
+                "name": "Phoenix Palladium",
+                "link": "https://www.google.com/maps/search/Phoenix+Palladium/@18.994744,72.82459930000002?authuser=0&hl=en&entry=ttu",
+                "reviews": 89248,
+                "rating": 4.5,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "Phoenix Market City - Pay & Park,",
+                "link": "https://www.google.com/maps/search/Phoenix+Market+City+-+Pay+%26+Park%2C/@19.0859746,72.8895289?authuser=0&hl=en&entry=ttu",
+                "reviews": 4038,
+                "rating": 4.4,
+                "main_category": "Public parking space"
+            },
+            {
+                "name": "Labor Gate Pheonix Marketcity Mall",
+                "link": "https://www.google.com/maps/search/Labor+Gate+Pheonix+Marketcity+Mall/@19.0848808,72.8894565?authuser=0&hl=en&entry=ttu",
+                "reviews": 79,
+                "rating": 4.2,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "City centre",
+                "link": "https://www.google.com/maps/search/City+centre/@19.086285,72.888904?authuser=0&hl=en&entry=ttu",
+                "reviews": 27,
+                "rating": 4.3,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "sity mall",
+                "link": "https://www.google.com/maps/search/sity+mall/@19.0707344,72.8781276?authuser=0&hl=en&entry=ttu",
+                "reviews": 5,
+                "rating": 4,
+                "main_category": "Shopping mall"
+            }
+        ],
+        "website": "https://www.phoenixmarketcity.com/mumbai",
+        "owner": {
+            "id": "118056899934477006695",
+            "name": "Phoenix Marketcity (Owner)",
+            "link": "https://www.google.com/maps/contrib/118056899934477006695"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPXMulopzPDX2NzgpbmB-Pd30pBitvpSVw5zOap=w408-h306-k-no",
+        "main_category": "Shopping mall",
+        "categories": [
+            "Shopping mall"
+        ],
+        "rating": 4.5,
+        "workday_timing": "11 am-12 am",
+        "closed_on": "Open All Days",
+        "phone": "022 4400 1000",
+        "address": "Phoenix Marketcity, Lal Bahadur Shastri Marg, Patelwadi.Kurla, kmaanii, Kurla West, Kurla, Mumbai, Maharashtra 400070",
+        "review_keywords": [
+            {
+                "keyword": "brands",
+                "count": 5109
+            },
+            {
+                "keyword": "snow",
+                "count": 397
+            },
+            {
+                "keyword": "joints",
+                "count": 142
+            },
+            {
+                "keyword": "timezone",
+                "count": 113
+            },
+            {
+                "keyword": "foodies",
+                "count": 73
+            },
+            {
+                "keyword": "r city mall",
+                "count": 71
+            },
+            {
+                "keyword": "high street phoenix",
+                "count": 50
+            },
+            {
+                "keyword": "hangout",
+                "count": 48
+            },
+            {
+                "keyword": "forever 21",
+                "count": 44
+            },
+            {
+                "keyword": "rainforest",
+                "count": 26
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Phoenix+Marketcity/data=!4m7!3m6!1s0x3be7c887efb78b9f:0x9f9dc99c3119470a!8m2!3d19.0863795!4d72.8889774!16s%2Fg%2F11bwnxxjkz!19sChIJn4u374fI5zsRCkcZMZzJnZ8?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJG8VDYIzO5zsRqlIdGnKIkkY",
+        "name": "Phoenix Palladium",
+        "description": "Huge, high-end mall featuring well-known international shops, plus a variety of restaurants.",
+        "is_spending_on_ads": false,
+        "reviews": 89273,
+        "competitors": [
+            {
+                "name": "Phoenix Marketcity",
+                "link": "https://www.google.com/maps/search/Phoenix+Marketcity/@19.0863795,72.8889774?authuser=0&hl=en&entry=ttu",
+                "reviews": 115456,
+                "rating": 4.5,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "Phoenix Mills",
+                "link": "https://www.google.com/maps/search/Phoenix+Mills/@18.994140599999998,72.82426699999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 402,
+                "rating": 4.6,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "Phoenix Head Office",
+                "link": "https://www.google.com/maps/search/Phoenix+Head+Office/@18.9890445,72.8256571?authuser=0&hl=en&entry=ttu",
+                "reviews": 36,
+                "rating": 4.8,
+                "main_category": "Corporate office"
+            },
+            {
+                "name": "Courtyard",
+                "link": "https://www.google.com/maps/search/Courtyard/@18.994598099999997,72.82463729999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 36,
+                "rating": 4.5,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "Phenix market",
+                "link": "https://www.google.com/maps/search/Phenix+market/@19.027431999999997,72.8409324?authuser=0&hl=en&entry=ttu",
+                "reviews": 24,
+                "rating": 4.7,
+                "main_category": "Shopping mall"
+            }
+        ],
+        "website": "https://phoenixpalladium.com/",
+        "owner": {
+            "id": "110605349150065696456",
+            "name": "Phoenix Palladium (Owner)",
+            "link": "https://www.google.com/maps/contrib/110605349150065696456"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOgiWPFngy6DLbS4fIPn4SaGsmzs14kSsZPbe3J=w426-h240-k-no",
+        "main_category": "Shopping mall",
+        "categories": [
+            "Shopping mall"
+        ],
+        "rating": 4.5,
+        "workday_timing": "11 am-10:30 pm",
+        "closed_on": "Open All Days",
+        "phone": "022 4333 9994",
+        "address": "Phoenix Palladium, 462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",
+        "review_keywords": [
+            {
+                "keyword": "brands",
+                "count": 3857
+            },
+            {
+                "keyword": "high end",
+                "count": 806
+            },
+            {
+                "keyword": "joints",
+                "count": 112
+            },
+            {
+                "keyword": "IMAX",
+                "count": 76
+            },
+            {
+                "keyword": "gucci",
+                "count": 73
+            },
+            {
+                "keyword": "laugh",
+                "count": 50
+            },
+            {
+                "keyword": "compound",
+                "count": 38
+            },
+            {
+                "keyword": "phoenix marketcity",
+                "count": 20
+            },
+            {
+                "keyword": "canvas",
+                "count": 16
+            },
+            {
+                "keyword": "r city mall",
+                "count": 10
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Phoenix+Palladium/data=!4m7!3m6!1s0x3be7ce8c6043c51b:0x469288721a1d52aa!8m2!3d18.994744!4d72.8245993!16s%2Fm%2F0j6641j!19sChIJG8VDYIzO5zsRqlIdGnKIkkY?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJ____vwe35zsRa78RefzEyWo",
+        "name": "Oberoi Mall",
+        "description": "Breezy shopping complex with 4 floors of brand-name stores, plus a food court & movie theater.",
+        "is_spending_on_ads": false,
+        "reviews": 82911,
+        "competitors": [
+            {
+                "name": "Growel's 101 Mall",
+                "link": "https://www.google.com/maps/search/Growel%27s+101+Mall/@19.203251899999998,72.85971479999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 53633,
+                "rating": 4.3,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "Inorbit Mall",
+                "link": "https://www.google.com/maps/search/Inorbit+Mall/@19.1729281,72.8359056?authuser=0&hl=en&entry=ttu",
+                "reviews": 52826,
+                "rating": 4.4,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "Lifestyle Stores",
+                "link": "https://www.google.com/maps/search/Lifestyle+Stores/@19.1446877,72.85471439999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 1053,
+                "rating": 4.1,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "Inorbit Mall",
+                "link": "https://www.google.com/maps/search/Inorbit+Mall/@19.172517,72.836303?authuser=0&hl=en&entry=ttu",
+                "reviews": 73,
+                "rating": 4.1,
+                "main_category": "Bus stop"
+            },
+            {
+                "name": "Central",
+                "link": "https://www.google.com/maps/search/Central/@19.16181,72.85759?authuser=0&hl=en&entry=ttu",
+                "reviews": 11,
+                "rating": 4.5,
+                "main_category": "Shopping mall"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Oberoi Mall (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKz0Lql-FWYWJXWxQX7_tN3rE7e8vrDwJuCYGV=w408-h306-k-no",
+        "main_category": "Shopping mall",
+        "categories": [
+            "Shopping mall",
+            "Donut shop",
+            "Outlet mall"
+        ],
+        "rating": 4.4,
+        "workday_timing": "11 am-9:30 pm",
+        "closed_on": "Open All Days",
+        "phone": "022 4099 0824",
+        "address": "Oberoi Mall, Yashodham, Goregaon, Mumbai, Maharashtra 400063",
+        "review_keywords": [
+            {
+                "keyword": "brands",
+                "count": 2856
+            },
+            {
+                "keyword": "food court",
+                "count": 2084
+            },
+            {
+                "keyword": "suburbs",
+                "count": 338
+            },
+            {
+                "keyword": "highway",
+                "count": 263
+            },
+            {
+                "keyword": "lifestyle",
+                "count": 170
+            },
+            {
+                "keyword": "multiplex",
+                "count": 123
+            },
+            {
+                "keyword": "foodies",
+                "count": 61
+            },
+            {
+                "keyword": "timezone",
+                "count": 59
+            },
+            {
+                "keyword": "celebrities",
+                "count": 33
+            },
+            {
+                "keyword": "r city mall",
+                "count": 11
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Oberoi+Mall/data=!4m7!3m6!1s0x3be7b707bfffffff:0x6ac9c4fc7911bf6b!8m2!3d19.173725!4d72.8605168!16s%2Fg%2F1tj94wz8!19sChIJ____vwe35zsRa78RefzEyWo?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJA7kjFTS35zsRPrm3ZzmArSg",
+        "name": "Inorbit Mall",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 52847,
+        "competitors": [
+            {
+                "name": "Oberoi Mall",
+                "link": "https://www.google.com/maps/search/Oberoi+Mall/@19.173724999999997,72.8605168?authuser=0&hl=en&entry=ttu",
+                "reviews": 82877,
+                "rating": 4.4,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "Infiniti Mall",
+                "link": "https://www.google.com/maps/search/Infiniti+Mall/@19.1848469,72.8345642?authuser=0&hl=en&entry=ttu",
+                "reviews": 71663,
+                "rating": 4.5,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "Growel's 101 Mall",
+                "link": "https://www.google.com/maps/search/Growel%27s+101+Mall/@19.203251899999998,72.85971479999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 53633,
+                "rating": 4.3,
+                "main_category": "Shopping mall"
+            },
+            {
+                "name": "Inorbit Mall",
+                "link": "https://www.google.com/maps/search/Inorbit+Mall/@19.172517,72.836303?authuser=0&hl=en&entry=ttu",
+                "reviews": 73,
+                "rating": 4.1,
+                "main_category": "Bus stop"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "110522023613793357402",
+            "name": "Inorbit Mall (Owner)",
+            "link": "https://www.google.com/maps/contrib/110522023613793357402"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5uQkzNZwBnkAAAQo8bLhLg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=240&pitch=0&thumbfov=100",
+        "main_category": "Shopping mall",
+        "categories": [
+            "Shopping mall"
+        ],
+        "rating": 4.4,
+        "workday_timing": "11 am-9:30 pm",
+        "closed_on": "Open All Days",
+        "phone": "022 6706 9548",
+        "address": "Inorbit Mall, New Link Rd, Malad, Malad West, Mumbai, Maharashtra 400064",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Inorbit+Mall/data=!4m7!3m6!1s0x3be7b7341523b903:0x28ad803967b7b93e!8m2!3d19.1729281!4d72.8359056!16s%2Fg%2F1tpn10gk!19sChIJA7kjFTS35zsRPrm3ZzmArSg?authuser=0&hl=en&rclk=1"
+    }
+]
